@@ -26,9 +26,11 @@ Possible measures :
  
  Bidirectional Hebbian Rule (Gerstner and Kistler 2002) - both increase and decrease of weights
  - Postsynaptic gating (Kohenen)
- * postsynaptic term controls intensity of learning
- * presynaptic term controls the sign
+  * postsynaptic term controls intensity of learning
+  * presynaptic term controls the sign
  - Presynaptic gating
+  
+ BCM Rule (Bienenstock, Cooper, Munro, 1982) 
  
  
  
